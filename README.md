@@ -1,9 +1,9 @@
 [![Join the chat at https://gitter.im/griganton/telepy](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/griganton/telepy?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-
+its been 6  years but still working  thanks 
 # About this repo
 This is Telegram API for python. 
 Main aim is to implement MTProto protocol Telegram API on pure Python (not wrapped CLI)
-
+its been 6  years but still working  
 ### Plan
 - [ ] Make it work on Python 2 as well as 3.
 - [ ] Follow up the same functionality of CLI API.
